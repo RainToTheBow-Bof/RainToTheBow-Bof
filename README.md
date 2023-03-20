@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F2CF7&center=true&width=435&lines=Hello+How+Are+You%3F;Am+Newton+Ombese;A+software+and+web+developer" alt="Typing SVG" /></a>
    
-<div style="display:flex;justify-content: center;align-items: center;">
+<div style="display:flex;justify-content:center;align-items:center;">
   <img src="./images/Developer.gif" alt="developer gif"  height="75px" > 
-  <p style="font-size: 30px; margin-top: 30px;">About Me:</p>
+  <p style="font-size: 30px;">About Me:</p>
 </div>
 <p align="center">
   Hi, I'm Newton Ombese, Software Engineer & Web Developer from Kenya
